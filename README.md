@@ -13,7 +13,7 @@ Uma página de formulário do curso Explorer - RocketSeat<br/>
 <br>
 
 <p align="center" id="-layout">
-  <img alt="lucky biscuit gif" src="./src/assets/view.png" width="100%">
+  <img alt="page image" src="./src/assets/view.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto _Página de Fomulário_ foi realizado como parte do curso de desenvolvimento de software da <a href="https://www.rocketseat.com.br/" alt="Link para o site da RocketSeat" target="_blank">RocketSeat</a>.
 
-_<h2 align="center" ><a href="https://rickazuo.github.io/fase-03-mobile-first-explorer/" target="_blank">Visite o projeto online</a></h2>_
+_<h2 align="center" ><a href="https://rickazuo.github.io/fase-03-Explorer--formulario-alternativo/" target="_blank">Visite o projeto online</a></h2>_
 
 ## 📃 Colaborador
 
