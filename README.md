@@ -13,7 +13,7 @@ Uma página de formulário do curso Explorer - RocketSeat<br/>
 <br>
 
 <p align="center" id="-layout">
-  <img alt="page image" src="./src/assets/view.png" width="100%">
+  <img alt="page image" src="./assets/view.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
