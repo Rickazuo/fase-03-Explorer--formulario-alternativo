@@ -32,4 +32,4 @@ _<h2 align="center" ><a href="https://rickazuo.github.io/fase-03-Explorer--formu
 
 ## 📃 Colaborador
 
-This challange was made by [Ricardo](https://rickazuo.github.io/portfolio/).
+This challenge was made by [Ricardo](https://rickazuo.github.io/portfolio/).
